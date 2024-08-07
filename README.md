@@ -10,4 +10,5 @@
 
 📫 How to reach me: samuelhappiness360@gmail.com
 
-![Samuel Happiness GitHub stats](https://github-readme-stats.vercel.app/api?username=it-samuel icons=true&theme=radical)
+
+![Samuel Happines stats](https://github-readme-stats.vercel.app/api?username=it-samuel_icons=true&theme=radical)
