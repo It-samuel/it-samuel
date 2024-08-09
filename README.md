@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Happiness</h1>
 <h3 align="center">A passionate Software Developer and DevOps engineer</h3>
 
+<img alt="coding" width=600 src="https://iconscout.com/lottie-animation/cloud-computing-3574897" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it-samuel&label=Profile%20views&color=0e75b6&style=flat" alt="it-samuel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it-samuel" alt="it-samuel" /></a> </p>
