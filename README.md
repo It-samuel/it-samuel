@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Happiness</h1>
 <h3 align="center">A passionate Software Developer and DevOps engineer</h3>
 
-<img alt="coding" width="600" align="right" height="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img alt="coding" width="600" align="center" height="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://iconscout.com/lottie-animation/cloud-computing-3574897)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it-samuel&label=Profile%20views&color=0e75b6&style=flat" alt="it-samuel" /> </p>
 
