@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Happiness</h1>
 <h3 align="center">A passionate Software Developer and DevOps engineer</h3>
 
-<img alt="coding" width=600 src="[https://iconscout.com/lottie-animation/cloud-computing-3574897](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjU2bkJtcmg1X3hPRGdHR3VLS0tfb2wwaV9WZ3xBQ3Jtc0tsVGEzS0w4cjItanFoNDhJUTJPOFRwMWRIaTdGdERZbTVwT3dtMkZwSmRicEpTcVdXay1IS05QY29rWmgtMWVvd1pQaEtoOXY0S3VOTjE3X0lSdTdIR2FPVWNyS25qV3NxSF81OXJ4ZEpDdTdXbV9Fbw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)" />
+<img alt="coding" width="600" src="[https://iconscout.com/lottie-animation/cloud-computing-3574897](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjU2bkJtcmg1X3hPRGdHR3VLS0tfb2wwaV9WZ3xBQ3Jtc0tsVGEzS0w4cjItanFoNDhJUTJPOFRwMWRIaTdGdERZbTVwT3dtMkZwSmRicEpTcVdXay1IS05QY29rWmgtMWVvd1pQaEtoOXY0S3VOTjE3X0lSdTdIR2FPVWNyS25qV3NxSF81OXJ4ZEpDdTdXbV9Fbw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it-samuel&label=Profile%20views&color=0e75b6&style=flat" alt="it-samuel" /> </p>
 
