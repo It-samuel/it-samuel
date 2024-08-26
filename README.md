@@ -16,7 +16,7 @@
 - 📝 I regularly write articles on [https://xamuelhappiness.hashnode.dev/](https://xamuelhappiness.hashnode.dev/)
 
 - 💬 Ask me about **anything tech related**
-
+     
 - 📫 How to reach me **samuelhappiness360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
