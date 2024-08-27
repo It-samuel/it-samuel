@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/xamuelhappiness" target="blank"><img src="https://img.shields.io/twitter/follow/xamuelhappiness?logo=twitter&style=for-the-badge" alt="xamuelhappiness" /></a> </p>
      
-- 🔭 I’m currently working on **Cloud infrastructure**
+- 🔭 I’m currently working on **Cloud infrastructure**  
 
 - 👯 I’m looking to collaborate on **Software Development and Cloud computing projects**
 
